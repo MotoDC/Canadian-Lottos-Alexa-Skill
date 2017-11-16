@@ -1,3 +1,3 @@
-# push-config-change-pyez
-Test repository... ignore
-Adding more text to create a change
+# Canadian Lottos Alexa Skill
+
+Initial push to start project.
